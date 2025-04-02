@@ -1,1 +1,1 @@
-// App Entry Point
+// App Entry

@@ -1,1 +1,1 @@
-// Supabase Setup
+// Supabase Config
